@@ -6,4 +6,4 @@ The code is divided into four main parts
 3. Organizing the data through matrixes to create plots later on
 4. Creating Plots (word cloud, most frequent words, sentiment analysis)
 
-Here you can find an hyperlink that takes you to the video presentation I did to pitch my findings and explain how I performed data analysis
+Here you can find an hyperlink that takes you to the video presentation I did to pitch my findings and explain how I performed data analysis [NBA presentation on mp4](https://github.com/Tommaso-Mazzucco95/R_Project_NBA./blob/main/TOMMASO%20MAZZUCCO%20NBA%20FAN%20ENGAGEMENT%20PRESENTATION.mp4)
